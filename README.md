@@ -1,5 +1,4 @@
-<h1 align="center">📊 Excel Analyzer</h1>
----
+<h1>📊 Excel Analyzer Platform- ExcelAnalyzer.ai</h1>
 
 ## 🧠 Project Overview
 ExcelAnalyzer.ai Platform is a powerful web application that allows users to upload Excel files (`.xls` / `.xlsx`), analyze the data, and create interactive 2D & 3D charts.
