@@ -21,7 +21,6 @@ The platform additionally provides smart insights, summaries, or reports from th
 - Secure Processing: Charts and data auto-expire after 12 hours for privacy.  
 - Responsive Modern UI: Built with TailwindCSS for a sleek, mobile-friendly experience.  
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -50,8 +49,8 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Aditi-Ethiraj14/ApnaBlog.git
-cd ApnaBlog
+git clone https://github.com/Aditi-Ethiraj14/ExcelAnalyzer.ai.git
+cd ExcelAnalyzer.ai
 ```
 
 ### **2. Configure Environment Variables**
@@ -59,7 +58,7 @@ Create a .env file inside the backend folder and add the following:
 ```bash
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-PORT=3000
+PORT=5000
 ```
 
 ### **3. Backend Setup**
@@ -68,7 +67,7 @@ cd backend
 npm install
 npm run dev
 ```
-Backend will now run at http://localhost:3000
+Backend will now run at http://localhost:5000
 
 ### **Frontend Setup**
 ```bash
@@ -90,10 +89,7 @@ Working video-
 - Scheduler for recurring uploads & auto-analytics
 - AI assistant for business insights and suggestions  
 
-
 ---
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-
-
