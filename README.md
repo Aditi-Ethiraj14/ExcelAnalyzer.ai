@@ -32,11 +32,11 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/da0b60c0-76f6-427a-bbde-93df03cd720d", width="48%">
-  <img src="https://github.com/user-attachments/assets/3805f738-b5cf-47a0-befe-23fa0e407082" width="48%">
+  <img src="https://github.com/user-attachments/assets/b944e9dd-9481-4e53-8bdd-734e5faea5e6" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b944e9dd-9481-4e53-8bdd-734e5faea5e6" width="48%">
+  <img src="https://github.com/user-attachments/assets/3805f738-b5cf-47a0-befe-23fa0e407082" width="48%">
   <img src="https://github.com/user-attachments/assets/df2225f3-a5b8-4283-842e-6f1e252e5a00" width="48%">
 </div>
 
