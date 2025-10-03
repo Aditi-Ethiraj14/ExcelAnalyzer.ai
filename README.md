@@ -10,16 +10,17 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 ## 🚀 Key Features
 
-📂 Excel Upload & Parsing – Supports `.xls` and `.xlsx` via SheetJS/xlsx, with intelligent multi-sheet parsing  
-👤 User & Admin Authentication – Secure JWT-based login system  
-📜 Upload History Dashboard – Track all past analyses and files  
-📊 Data Mapping – Choose X/Y axes dynamically from Excel headers  
-📈 2D & 3D Chart Generation – Bar, line, pie, scatter, and 3D column charts with interactive dashboards (hover, switch charts, filter data)  
-🎨 Chart Customization – Adjust colors, labels, and dimensions  
-📥 Downloadable Charts – Export graphs as PNG or compile into a single merged PDF  
-✨ AI Integration (Optional) – Generate smart insights, summaries, and reports  
-🔐 Secure Processing – Charts and data auto-expire after 12 hours for privacy  
-🖥️ Responsive Modern UI – Built with TailwindCSS for a sleek, mobile-friendly experience  
+- Excel Upload & Parsing: Supports `.xls` and `.xlsx` via SheetJS/xlsx, with intelligent multi-sheet parsing.  
+- User & Admin Authentication: Secure JWT-based login system.  
+- Upload History Dashboard: Track all past analyses and files.  
+- Data Mapping: Choose X/Y axes dynamically from Excel headers.  
+- 2D & 3D Chart Generation: Bar, line, pie, scatter, and 3D column charts with interactive dashboards (hover, switch charts, filter data).  
+- Chart Customization: Adjust colors, labels, and dimensions.  
+- Downloadable Charts: Export graphs as PNG or compile into a single merged PDF.  
+- AI Integration (Optional): Generate smart insights, summaries, and reports.  
+- Secure Processing: Charts and data auto-expire after 12 hours for privacy.  
+- Responsive Modern UI: Built with TailwindCSS for a sleek, mobile-friendly experience.  
+
 
 ---
 
@@ -45,37 +46,41 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 ---
 
-## 📦 Installation & Setup
+## 🚀 Installation & Setup
 
-
-### 📥1. Clone the Repository
-
+### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Aditi-Ethiraj14/ExcelAnalyzer.ai.git
+git clone https://github.com/Aditi-Ethiraj14/ApnaBlog.git
+cd ApnaBlog
 ```
 
-### 🖥2. Running Locally
-To set up the project on your local machine, follow the steps below:
-
-#### 🔹 Setup Frontend
+### **2. Configure Environment Variables**
+Create a .env file inside the backend folder and add the following:
 ```bash
-cd frontend
-npm install
-npm run dev
+MONGO_URL=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+PORT=3000
 ```
-# Runs at http://localhost:5173
 
-#### 🔹 Setup Backend
+### **3. Backend Setup**
 ```bash
 cd backend
 npm install
 npm run dev
 ```
-# Runs at http://localhost:5000
+Backend will now run at http://localhost:3000
 
-### 📱3. Access the Application:
+### **Frontend Setup**
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Frontend will now run at http://localhost:5173
 
-Working link-
+### **5. Access the Application**
+
+Working video-
 
 ---
 
@@ -84,4 +89,11 @@ Working link-
 - Email report delivery with PDF attachments
 - Scheduler for recurring uploads & auto-analytics
 - AI assistant for business insights and suggestions  
+
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
 
