@@ -27,12 +27,17 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9de558c0-c7b4-416b-b448-400bc7a5541c", width="48%">
-  <img src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" width="48%">
+  <img src="https://github.com/user-attachments/assets/a903e14a-409e-456c-89b4-f0ff81fcfb8e" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f109ff82-95dd-47ac-85bc-b06377563372" width="48%">
-  <img src="https://github.com/user-attachments/assets/d58582b5-6181-456c-acd3-0c9f3dc1c887" width="48%">
+  <img src="https://github.com/user-attachments/assets/da0b60c0-76f6-427a-bbde-93df03cd720d", width="48%">
+  <img src="https://github.com/user-attachments/assets/3805f738-b5cf-47a0-befe-23fa0e407082" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b944e9dd-9481-4e53-8bdd-734e5faea5e6" width="48%">
+  <img src="https://github.com/user-attachments/assets/df2225f3-a5b8-4283-842e-6f1e252e5a00" width="48%">
 </div>
 
 ---
