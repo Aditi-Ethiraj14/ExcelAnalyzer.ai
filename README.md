@@ -23,6 +23,20 @@ The platform additionally provides smart insights, summaries, or reports from th
 
 ---
 
+## 🖼 Working
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9de558c0-c7b4-416b-b448-400bc7a5541c", width="48%">
+  <img src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f109ff82-95dd-47ac-85bc-b06377563372" width="48%">
+  <img src="https://github.com/user-attachments/assets/d58582b5-6181-456c-acd3-0c9f3dc1c887" width="48%">
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
